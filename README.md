@@ -1,7 +1,4 @@
-A bit of a mix of particle physics and software development, but here are my public talks.
-
-Recent are CC-by-4.0 but some aren't.
-The logos of my employers are obviously under different usage rules.
+Talks that I've given. A total mix of particle physics and software development.
 
 |          |                                                                          |                                    |           |
 |----------|--------------------------------------------------------------------------|------------------------------------|-----------|
@@ -12,15 +9,10 @@ The logos of my employers are obviously under different usage rules.
 |2019-07-11| [Dark sector physics with Belle II.](https://bib-pubdb1.desy.de/record/423992/files/SCunliffe190711-EPS.pdf)  | EPS-HEP, Ghent. | |
 |2019-06-05| [Dark matter searches at Belle II.][blois]                               | Rencontres de Blois, Blois.        |           |
 |2019-02-13| [High-level analysis software for the Belle II experiment.][hsf-awg]     | HSF Analysis Group, Virtual.       |           |
-
-<!-- Older talks
-
 |2018-10   | [Dark sector physics with photons at Belle II.]                          | The Puzzle of Dark Matter, Hamburg.|           |
 |2018-09   | [Dark sector physics with photons at Belle II.]                          | Flavour and Dark Matter, Karlshrue.|           |
 |2018-02   | Lepton-flavour universality at Belle II.                                 | b→sll, Munich.                     |           |
 |2017-08   | [Prospects for rare B decays at Belle II.][aps-dpf]                      | APS-DPF, Fermilab.                 |           |
-
--->
 
 <!-- Long URLs here for a more readable table -->
 [epiphany-krakow]: https://indico.cern.ch/event/934666/contributions/4154039/attachments/2167615/3658887/SCunliffe210107-Epiphany.pdf
