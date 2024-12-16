@@ -2,6 +2,7 @@ Talks that I've given. A total mix of particle physics and software development.
 
 |          |                                                                          |                                    |
 |----------|--------------------------------------------------------------------------|------------------------------------|
+|2024-12-17| [Functional programming for RSEs and friends.](https://scnlf.me/2024-12-17-functional-canary) | ARC Collaborations Hour. |
 |2023-04-05| [Test-driven development (in python).](https://scnlf.me/swc-pyclub-tdd)  | Sainsbury Wellcome Centre, London. |
 |2021-01-07| [The Belle II experiment.][epiphany-krakow]                              | Epiphany XXVII, Krakow.            |
 |2020-06-11| [Dark sectors and rare penguins.](https://www.imperial.ac.uk/events/118463/recent-results-from-belle/) | Imperial College HEP Seminar, London. |
