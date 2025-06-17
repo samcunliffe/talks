@@ -2,6 +2,7 @@ Talks that I've given. A total mix of particle physics and software development.
 
 |          |                                                                          |                                    |
 |----------|--------------------------------------------------------------------------|------------------------------------|
+|2025-06-17| [chooseadb.com](https://chooseadb.github.io/talks/2025-06-collab-arc/)   | ARC Collaborations Hour.           |
 |2024-12-17| [Functional programming for RSEs and friends.](https://scnlf.me/2024-12-17-functional-canary) | ARC Collaborations Hour. |
 |2023-04-05| [Test-driven development (in python).](https://scnlf.me/swc-pyclub-tdd)  | Sainsbury Wellcome Centre, London. |
 |2021-01-07| [The Belle II experiment.][epiphany-krakow]                              | Epiphany XXVII, Krakow.            |
