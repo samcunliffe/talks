@@ -2,7 +2,7 @@ Talks that I've given. A total mix of particle physics and software development.
 
 |          |                                                                          |                                    |
 |----------|--------------------------------------------------------------------------|------------------------------------|
-|2025-11-18| Folding @UCL-ARC into GitHub Enterprise.                                 | ARC Collaborations Hour.           |
+|2025-01-12| [`git` gives you superpowers](https://scnlf.me/2025-12-01-supergit/) w/ Matthew Scroggs | [CCMI CDT](https://ccmi-cdt.org/) Software Engineering Fundamentals. |
 |2025-07-17| [Open-soure good first issue workshop](http://scnlf.me/2025-07-15-Good-First-Issue-Welcome/)  | ARC Festival of Digital Research 2025, UCL, London.           |
 |2025-06-17| [chooseadb.com](https://chooseadb.github.io/talks/2025-06-collab-arc/)   | ARC Collaborations Hour.           |
 |2024-12-17| [Functional programming for RSEs and friends.](https://scnlf.me/2024-12-17-functional-canary) | ARC Collaborations Hour. |
